@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../code images"
+		},
+		{
+			"path": "../webimages"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "code images"
+	}
+}
